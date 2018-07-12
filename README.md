@@ -6,3 +6,5 @@ https://blog.csdn.net/zhangjs712/article/details/51166748
 https://www.cnblogs.com/frankyou/p/6145485.html
 ## 4.node单线程，非阻塞io，事件驱动
 https://www.cnblogs.com/renyanlei/p/6665535.html
+## 5.vue 兄弟组件通信 eventBus
+https://blog.csdn.net/u013034014/article/details/54574989
